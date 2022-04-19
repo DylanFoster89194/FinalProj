@@ -2,28 +2,27 @@
 
 #### Your name
 
-TODO
+Dylan Foster
 
 #### Your section leader's name
 
-TODO
+Prof. Rosen
 
 #### Project title
 
-TODO
+Trivia Game
 
 ***
 
 Short answers for the below questions suffice. If you want to alter your plan for your project (and obtain approval for the same), be sure to email your section leader directly!
 
 #### What have you done for your project so far?
-
-TODO
+Made a list of categories with questions and have implemented inputs in my program.
 
 #### What have you not done for your project yet?
 
-TODO
+Set up the pictures to display for each question
 
 #### What problems, if any, have you encountered?
 
-TODO
+None so far
