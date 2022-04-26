@@ -1,0 +1,4 @@
+Link to video explaining assignment can be found here:https://youtu.be/wvkYmDh-bIw
+This is a multi Category trivia game! This is run by using Python and IDLE. To make sure we all of the code works, mainly the images, using PIP that comes with the installation of Python,
+type in command prompt which can be found by searching in the search bar, pip install pillow. The most difficult part was finding a way to install pillow, but other than that
+the making of this game was pretty easy. Hope you enjoy!
